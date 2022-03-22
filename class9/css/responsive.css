@@ -1,0 +1,601 @@
+@media (max-width: 320px) {
+  .logo {
+      width: 24%;
+      font-size: 11px;
+      margin: 25px -113px;
+  }
+  .nav {
+    width: 76%;
+  }
+  .main {
+    margin: 0px 114px;
+  }
+  header {
+    width: 59%;
+  }
+  .nav > ul > a > li {
+    padding-left: 22px;
+    padding-right: 118px;
+    margin-right: -18px;
+    margin-left: -103px;
+    font-size: 11px;
+  }
+  .nav > ul > a > .buynow {
+    margin-top: 8px;
+    margin-left: -86px;
+    padding: 6px 3px;
+  }
+  .sec1-left h1 {
+    font-size: 15px;
+  }
+  h1 {
+    margin-top: 116px;
+    margin-left: -161px;
+  }
+  img {
+    height: 360px;
+    width: 192px;
+    margin-left: 18px;
+  }
+  .sec1-left p {
+    font-size: 1rem;
+    margin-left: -154px;
+    margin-top: 16px;
+    margin-bottom: 32px;
+  }
+  .viewdemo {
+    padding: 6px 8px;
+    margin-left: -189px;
+  }
+  .documentation {
+    padding: 6px 7px;
+  }
+  .footerpic {
+    width: 100%;
+    margin-top: -88px;
+    height: 88px;
+  }
+  button {
+    margin-top: 34px;
+  }
+  .sec2 h2 {
+    font-size: 1rem;
+    margin-left: -31px;
+    margin-right: -52px;
+    margin-top: 4px;
+  }
+  .sec2 p {
+    font-size: 12px;
+    padding: 7px 0px;
+  }
+  .card-img {
+    width: 766%;
+    margin-left: -39px;
+  }
+  .card h6 {
+    margin-left: -151px;
+    margin-right: -173px;
+  }
+  .footerpic {
+    width: 41%;
+    margin-top: -88px;
+    height: 88px;
+  }
+  .sec3 h2 {
+    font-size: 1rem;
+    margin-left: -31px;
+    margin-right: -52px;
+    margin-top: 4px;
+  }
+  .sec3 p {
+    font-size: 12px;
+    font-family: arial;
+    padding: 7px 0px;
+  }
+  .list-content h4 {
+    margin-left: -133px;
+    margin-right: -124px;
+  }
+  .list-content {
+    width: 483.33%;
+    margin-left: -101px;
+  }
+  .footerpic {
+    width: 100%;
+    margin-left: 1px;
+  }
+  .sec4 h2 {
+    font-size: 1.1rem;
+    margin-left: -31px;
+    margin-right: -52px;
+    margin-top: 4px;
+  }
+  .sec4 p {
+    font-size: 1rem;
+    font-family: arial;
+    padding: 7px 0px;
+  }
+  .container div {
+    padding: 26px;
+  }
+  .sec5 h1 {
+    font-size: 2rem;
+    margin-left: -346px;
+  }
+  .child > .h5 {
+    margin-left: -314px;
+    font-size: 9px;
+  }
+  .sec5 p {
+      font-size: 1rem;
+      margin-left: -1px;
+      padding: 0px 1px;
+  } 
+  .footer_pic {
+    height: 61px;
+    width: 100%;
+  }
+  .foot1 {
+    width: 34%;
+    font-size: 13px;
+    margin-left: 139px;
+    margin-top: 14px;
+    margin-right: 221px;
+  }
+  .foot1 i {
+    font-size: 23px;
+  }
+  footer ul {
+    font-size: 12px;
+  }
+  footer {
+    height: 345px;
+  }
+  .foot2, .foot3, .foot4, .foot5 {
+    width: 21%;
+    margin-left: 14px;
+    font-size: 16px;
+  }
+  .copy1 {
+    margin-top: 18px;
+    margin-left: -2px;
+    font-size: 10px;
+  }
+  .copy2 {
+    margin-right: 5px;
+    font-size: 10px;
+  }
+}
+
+@media (min-width: 321px) and (max-width: 375px) {
+  .logo {
+    margin: 25px -131px;
+    width: 49%;
+}
+.sec1-left h1 {
+  font-size: 1rem;
+}
+h1 {
+  margin-top: 116px;
+  margin-left: -155px;
+}
+img {
+  height: 360px;
+  width: 192px;
+  margin-left: 18px;
+}
+.sec1-left p {
+  font-size: 1rem;
+  margin-left: -154px;
+  margin-top: 16px;
+  margin-bottom: 32px;
+}
+.viewdemo {
+  padding: 6px 8px;
+  margin-left: -189px;
+}
+.documentation {
+  padding: 6px 7px;
+}
+.footerpic {
+  width: 100%;
+  margin-top: -88px;
+  height: 88px;
+}
+button {
+  margin-top: 34px;
+}
+.sec2 h2 {
+  font-size: 1rem;
+  margin-left: -31px;
+  margin-right: -52px;
+  margin-top: 4px;
+}
+.sec2 p {
+  font-size: 12px;
+  padding: 7px 0px;
+}
+.card-img {
+  width: 766%;
+  margin-left: -39px;
+}
+.card h6 {
+  margin-left: -151px;
+  margin-right: -173px;
+}
+.footerpic {
+  width: 41%;
+  margin-top: -88px;
+  height: 88px;
+}
+.sec3 h2 {
+  font-size: 1rem;
+  margin-left: -31px;
+  margin-right: -52px;
+  margin-top: 4px;
+}
+.sec3 p {
+  font-size: 12px;
+  font-family: arial;
+  padding: 7px 0px;
+}
+.list-content h4 {
+  margin-left: -133px;
+  margin-right: -124px;
+}
+.list-content {
+  width: 483.33%;
+  margin-left: -101px;
+}
+.footerpic {
+  width: 100%;
+  margin-left: 1px;
+}
+.sec4 h2 {
+  font-size: 1.1rem;
+  margin-left: -31px;
+  margin-right: -52px;
+  margin-top: 4px;
+}
+.sec4 p {
+  font-size: 1rem;
+  font-family: arial;
+  padding: 7px 0px;
+}
+.container div {
+  padding: 26px;
+}
+.sec5 h1 {
+  font-size: 2rem;
+  margin-left: -346px;
+}
+.child > .h5 {
+  margin-left: -314px;
+  font-size: 9px;
+}
+.sec5 p {
+    font-size: 1rem;
+    margin-left: -1px;
+    padding: 0px 1px;
+} 
+.footer_pic {
+  height: 61px;
+  width: 100%;
+}
+.foot1 {
+  width: 34%;
+  font-size: 13px;
+  margin-left: 139px;
+  margin-top: 14px;
+  margin-right: 221px;
+}
+.foot1 i {
+  font-size: 23px;
+}
+footer ul {
+  font-size: 12px;
+}
+footer {
+  height: 345px;
+}
+.foot2, .foot3, .foot4, .foot5 {
+  width: 21%;
+  margin-left: 14px;
+  font-size: 16px;
+}
+.copy1 {
+  margin-top: 18px;
+  margin-left: -2px;
+  font-size: 10px;
+}
+.copy2 {
+  margin-right: 5px;
+  font-size: 10px;
+}
+}
+@media (min-width: 376px) and (max-width: 425px) {
+  .logo {
+    margin: 25px -131px;
+    width: 49%;
+}
+.sec1-left h1 {
+  font-size: 1rem;
+}
+h1 {
+  margin-top: 116px;
+  margin-left: -155px;
+}
+img {
+  height: 360px;
+  width: 192px;
+  margin-left: 18px;
+}
+.sec1-left p {
+  font-size: 1rem;
+  margin-left: -154px;
+  margin-top: 16px;
+  margin-bottom: 32px;
+}
+.viewdemo {
+  padding: 6px 8px;
+  margin-left: -189px;
+}
+.documentation {
+  padding: 6px 7px;
+}
+.footerpic {
+  width: 100%;
+  margin-top: -88px;
+  height: 88px;
+}
+button {
+  margin-top: 34px;
+}
+.sec2 h2 {
+  font-size: 1.1rem;
+  margin-left: -31px;
+  margin-right: -52px;
+  margin-top: 4px;
+}
+.sec2 p {
+  font-size: 1rem;
+  font-family: arial;
+  padding: 7px 0px;
+}
+.card-img {
+  width: 766%;
+  margin-left: -89px;
+}
+.card h6 {
+  margin-left: -151px;
+  margin-right: -173px;
+}
+.footerpic {
+  width: 41%;
+  margin-top: -88px;
+  height: 88px;
+}
+.sec3 h2 {
+  font-size: 1.1rem;
+  margin-left: -31px;
+  margin-right: -52px;
+  margin-top: 4px;
+}
+.sec3 p {
+  font-size: 1rem;
+  font-family: arial;
+  padding: 7px 0px;
+}
+.list-content h4 {
+  margin-left: -133px;
+  margin-right: -124px;
+}
+.list-content {
+  width: 164.33%;
+  margin-left: -36px;
+}
+.footerpic {
+  width: 100%;
+  margin-left: 1px;
+}
+.sec4 h2 {
+  font-size: 1.1rem;
+  margin-left: -31px;
+  margin-right: -52px;
+  margin-top: 4px;
+}
+.sec4 p {
+  font-size: 1rem;
+  font-family: arial;
+  padding: 7px 0px;
+}
+.container div {
+  padding: 26px;
+}
+.sec5 h1 {
+  font-size: 2rem;
+  margin-left: -346px;
+}
+.child > .h5 {
+  margin-left: -314px;
+  font-size: 9px;
+}
+.sec5 p {
+    font-size: 1rem;
+    margin-left: -1px;
+    padding: 0px 1px;
+} 
+/* .sec5 > .footmain > a {
+  margin-bottom: 21px;
+} */
+.footer_pic {
+  height: 32px;
+  width: 100%;
+}
+.foot1 {
+  font-size: 8px;
+  margin-left: 10px;
+  margin-top: 14px;
+  margin-right: 7px;
+}
+.foot1 i {
+  font-size: 15px;
+}
+footer ul {
+  font-size: 10px;
+}
+.foot2, .foot3, .foot4, .foot5 {
+  width: 15%;
+  margin-left: 13px;
+  font-size: 13px;
+}
+.copy1 {
+  margin-top: 18px;
+  margin-left: -2px;
+  font-size: 13px;
+}
+.copy2 {
+  margin-right: 5px;
+  font-size: 13px;
+}
+}
+
+@media (min-width: 426px) and (max-width: 768px) {
+  .logo {
+    width: 59%;
+    margin: 25px -90px;
+}
+    .main {
+      margin: 0px 114px;
+    }
+    h1 {
+      margin-left: -148px;
+      font-weight: 50;
+  }
+  .sec1-right > img {
+    height: 362px;
+    width: 329px;
+}
+.sec1-left p {
+  font-size: 1.1rem;
+  margin-left: -91px;
+}
+.viewdemo {
+  margin-left: -115px;
+}
+.footerpic {
+  width: 100%;
+  margin-top: -88px;
+  height: 88px;
+}
+button {
+  margin-top: 34px;
+}
+.sec2 p {
+  padding: 5px 17px;
+}
+.sec2 > .footerpic {
+  height: 88px;
+}
+.sec3 p {
+  padding: 5px -1px;
+}
+.list-content {
+  width: 32.33%;
+  padding: 1px;
+}
+.sec4 > .footerpic {
+  height: 92px;
+  margin-top: -92px;
+}
+.sec4 p {
+  padding: 5px 2px;
+}
+.sec5 h1 {
+  font-size: 4rem;
+  margin-left: 5px;
+}
+.child > .h5 {
+  margin-left: 11px;
+  font-size: .9rem;
+}
+  .sec5 p {
+    font-size: 1rem;
+    margin-left: -1px;
+    padding: 0px 1px;
+}
+.sec5 > .footmain > a {
+  margin-bottom: 21px;
+}
+.footer_pic {
+  margin-top: 0px;
+  height: 55px;
+}
+.foot1 {
+  font-size: .800rem;
+  margin-left: 19px;
+}
+.foot2, .foot3, .foot4, .foot5 {
+  width: 19%;
+  margin-left: -6px;
+  font-size: 14px;
+}
+}
+@media (min-width: 769px) and (max-width: 1024px){
+  .logo {
+    width: 22%;
+    margin: 25px 39px;
+}
+.main {
+  margin: 0px 24px;
+}
+.nav > ul > a > li {
+  padding: 0px 7px;
+}
+h1 {
+  margin-left: -113px;
+}
+.sec1-left p {
+  margin-left: -113px;
+}
+.viewdemo {
+  margin-left: -132px;
+}
+.sec2 p {
+  padding: 5px 90px;
+}
+.card {
+  width: 30%;
+}
+.sec3 p {
+  padding: 5px 66px;
+}
+.list-content {
+  width: 30.33%;
+}
+.sec4 p {
+  padding: 5px 70px;
+}
+.sec5 p {
+  padding: 6px 0px;
+}
+.sec5 h1 {
+  margin-left: 1px;
+}
+.child > .h5 {
+  font-size: 1rem;
+  margin-left: -69px;
+  margin-right: -80px;
+}
+.sec5 p {
+  margin-left: -37px;
+}
+} 
+@media (min-width: 1025px){
+  .list-content {
+    width: 30.33%;
+}
+  .sec1-left p {
+  margin-left: 44px;
+}
+}
