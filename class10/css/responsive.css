@@ -1,0 +1,423 @@
+@media (max-width: 320px) {
+  .main {
+    margin: 0px 1px;
+}
+.logo {
+  width: auto;
+  font-size: 12px;
+}
+	.nav {
+    width: 63%;
+	}
+    .nav > ul > a > li {
+      margin: 0px 0px;
+      font-size: 13px;
+      float: left;
+    padding: 0px 4px;
+  }
+  .nav > ul > a > .buynow {
+    border-radius: 0.3rem;
+    padding: 3px 6px;
+}
+.sec1-left h1 {
+  font-size: 1.4rem;
+}
+.sec1-left p {
+  font-size: 0.95rem;
+}
+.viewdemo {
+  padding: 6px 8px;
+  margin-right: 61px;
+  font-size: 12px;
+}
+  .documentation {
+    padding: 5px 6px;
+    font-size: 12px;
+    float: right;
+    margin-top: -20px;
+}
+	.footmain {
+		margin: 0px 1px;
+	}
+  .sec2 p {
+    font-size: 1rem;
+    padding: 5px 0px;
+}
+.card {
+  width: 100%;
+  padding: 10px 0px;
+}
+.sec3 p {
+  font-size: 1rem;
+  padding: 5px 9px;
+}
+.list-content {
+  width: 86.33%;
+  padding: 8px;
+}
+.sec4 p {
+  font-size: 1rem;
+  padding: 5px 26px;
+}
+.sec5 p {
+  font-size: 1rem;
+  padding: 5px 36px;
+}
+.sec5 h1 {
+  font-size: 4rem;
+}
+.sec5 > .footmain > a {
+  text-align: center;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.footer_pic {
+  height: 61px;
+  width: 100%;
+}
+.foot1 {
+  width: 34%;
+  font-size: 10px;
+  margin-left: 114px;
+  margin-top: 14px;
+  margin-right: 221px;
+}
+.foot1 i {
+  font-size: 20px;
+}
+footer ul {
+  font-size: 9px;
+}
+footer {
+  height: 345px;
+}
+.foot2, .foot3, .foot4, .foot5 {
+  width: 19%;
+  margin-left: 10px;
+  font-size: 11px;
+}
+.copy1 {
+  margin-top: 18px;
+  margin-left: 0px;
+  font-size: 10px;
+}
+.copy2 {
+  margin-right: 5px; 
+  font-size: 10px;
+  margin-top:-12px;
+}	
+}
+@media (min-width: 321px) and (max-width: 375px) {
+  .main {
+    margin: 0px 1px;
+}
+.logo {
+  width: auto;
+  font-size: 12px;
+}
+	.nav {
+    width: 82%;
+	}
+    .nav > ul > a > li {
+      margin: 0px 0px;
+      font-size: 13px;
+      float: left;
+    padding: 0px 4px;
+  }
+  .nav > ul > a > .buynow {
+    border-radius: 0.3rem;
+    padding: 3px 6px;
+}
+.sec1-left h1 {
+  font-size: 1.4rem;
+}
+.sec1-left p {
+  font-size: 0.95rem;
+}
+.viewdemo {
+  padding: 6px 8px;
+  margin-right: 79px;
+  font-size: 12px;
+}
+  .documentation {
+    padding: 5px 6px;
+    font-size: 12px;
+    float: right;
+    margin-top: -20px;
+}
+
+	.footmain {
+		margin: 0px 1px;
+	}
+  .sec2 p {
+    font-size: 1rem;
+    padding: 5px 28px;
+}
+.card {
+  width: 52%;
+  padding: 10px 105px;
+}
+.sec3 p {
+  font-size: 1rem;
+  padding: 5px 9px;
+}
+.sec3 p {
+  font-size: 1rem;
+  padding: 5px 9px;
+}
+.sec4 p {
+  font-size: 1rem;
+  padding: 5px 26px;
+}
+.sec5 p {
+  font-size: 1rem;
+  padding: 5px 36px;
+}
+.sec5 h1 {
+  font-size: 4rem;
+}
+.list-content {
+  width: 44.33%;
+  padding: 8px;
+}
+.sec5 > .footmain > a {
+  text-align: center;
+}
+.footer_pic {
+  height: 61px;
+  width: 100%;
+}
+.foot1 {
+  width: 34%;
+  font-size: 13px;
+  margin-left: 139px;
+  margin-top: 14px;
+  margin-right: 221px;
+}
+.foot1 i {
+  font-size: 23px;
+}
+footer ul {
+  font-size: 12px;
+}
+footer {
+  height: 345px;
+}
+.foot2, .foot3, .foot4, .foot5 {
+  width: 21%;
+  margin-left: 14px;
+  font-size: 16px;
+}
+.copy1 {
+  margin-top: 18px;
+  margin-left: -2px;
+  font-size: 10px;
+}
+.copy2 {
+  margin-right: 5px;
+  font-size: 10px;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+}
+@media (min-width: 376px) and (max-width: 425px) {
+	.main {
+    margin: 0px 1px;
+}
+.logo {
+  width: 18%;
+  font-size: 12px;
+}
+	.nav {
+    width: 82%;
+	}
+    .nav > ul > a > li {
+      margin: 0px 0px;
+      font-size: 13px;
+      float: left;
+    padding: 0px 4px;
+  }
+  .nav > ul > a > .buynow {
+    border-radius: 0.3rem;
+    padding: 3px 6px;
+}
+.sec1-left h1 {
+  font-size: 1.4rem;
+}
+.sec1-left p {
+  font-size: 0.95rem;
+}
+.viewdemo {
+  padding: 6px 8px;
+  margin-right: 79px;
+  font-size: 12px;
+}
+  .documentation {
+    padding: 5px 6px;
+    font-size: 12px;
+    float: right;
+    margin-top: -20px;
+}
+
+	.footmain {
+		margin: 0px 1px;
+	}
+  .sec2 p {
+    font-size: 1rem;
+    padding: 5px 28px;
+}
+.card {
+  width: 52%;
+  padding: 10px 105px;
+}
+.sec3 p {
+  font-size: 1rem;
+  padding: 5px 9px;
+}
+.sec3 p {
+  font-size: 1rem;
+  padding: 5px 9px;
+}
+.sec4 p {
+  font-size: 1rem;
+  padding: 5px 26px;
+}
+.sec5 p {
+  font-size: 1rem;
+  padding: 5px 36px;
+}
+.sec5 h1 {
+  font-size: 4rem;
+}
+.list-content {
+  width: 44.33%;
+  padding: 8px;
+}
+.sec5 > .footmain > a {
+  text-align: center;
+}
+/* .child{
+  padding: 5px 5px;
+} */
+.footer_pic {
+  height: 61px;
+  width: 100%;
+}
+.foot1 {
+  width: 34%;
+  font-size: 13px;
+  margin-left: 139px;
+  margin-top: 14px;
+  margin-right: 221px;
+}
+.foot1 i {
+  font-size: 23px;
+}
+footer ul {
+  font-size: 12px;
+}
+footer {
+  height: 345px;
+}
+.foot2, .foot3, .foot4, .foot5 {
+  width: 21%;
+  margin-left: 14px;
+  font-size: 16px;
+}
+.copy1 {
+  margin-top: 18px;
+  margin-left: -2px;
+  font-size: 10px;
+}
+.copy2 {
+  margin-right: 5px;
+  font-size: 10px;
+}
+}
+@media (min-width: 426px) and (max-width: 768px) {
+  .sec1-left h1 {
+		font-size: 2rem;
+	}
+	.sec1-left p {
+		font-size: 0.95rem;
+	}
+	.main {
+		margin: 0px 50px;
+	}
+	.logo {
+    width: 18%;
+	}
+	.nav {
+    width: 82%;
+	}
+	.nav > ul > a > li {
+    padding: 0px 4px;
+  }
+	.footmain {
+		margin: 0px 1px;
+	}
+  .sec2 p {
+    font-size: 1rem;
+    padding: 5px 139px;
+}
+.card {
+  width: 30%;
+}
+.sec3 p {
+  font-size: 1rem;
+  padding: 5px 121px;
+}
+.list-content {
+  width: 30.33%;
+}
+.sec4 p {
+  font-size: 1rem;
+  padding: 5px 118px;
+}
+.sec5 p {
+  font-size: 1rem;
+  padding: 5px 80px;
+}
+.foot1 {
+  margin-right: 22px;
+  margin-top: 8px;
+  margin-left: 40px;
+}
+footer ul {
+  font-size: 13px;
+}
+.copy1 {
+  margin-left: 32px;
+}
+.copy2 {
+  margin-right: 32px;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+	}
+@media (min-width: 769px) and (max-width: 1024px) {
+	.sec2 {
+		margin-top: 25px;
+	}
+	.sec1-left h1 {
+		font-size: 1.5rem;
+	}
+	.sec1-left p {
+    font-size: 20px;
+  }
+	.banner-img{
+		width:75%;
+	}
+  .footmain {
+    margin: 0px 1px;
+}
+}
+@media (min-width: 1025px) {
+	
+}
